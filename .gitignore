@@ -5,6 +5,7 @@ Backup/
 
 # Python Virtual Environment
 venv_Slamteclidar/
+!env/.gitkeep
 __pycache__/
 *.py[cod]
 *$py.class
