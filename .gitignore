@@ -1,0 +1,14 @@
+# TouchDesigner
+*.toe
+!TD_Slamtec_lidar.toe
+Backup/
+
+# Python Virtual Environment
+venv_Slamteclidar/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated batch files
+scripts/*
+!scripts/lidar_server.py
